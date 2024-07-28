@@ -1,0 +1,10 @@
+{
+    "token": "token del bot",
+    "prefix": ".",
+    "channelCreate": "canal al crear",
+    "spamChannel": "spam para los canales",
+    "bypass_name": "nombre de tu bypass",
+    "bypass_Category": "bypass de las categorias",
+    "SpamDm": "un spam para el md e.e",
+    "FotoDelServer": "qsy foto del sv"
+}
